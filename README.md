@@ -1,7 +1,7 @@
 # DriverPass System Design Portfolio
 
 ## Project Overview: DriverPass
-**Client:** Liam, Owner of DriverPass Driving School  
+**Client:** DriverPass Driving School  
 **System Type:** Cloud-based Web Application  
 
 The **DriverPass** project involved designing a modern, centralized platform to automate the operations of a local driving school. The primary goal was to improve student preparation for the DMV exam while reducing the administrative burden of manual scheduling. Key features include an automated driving lesson booking system, secure third-party payment processing, and interactive practice exams.
